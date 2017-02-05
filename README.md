@@ -1,2 +1,2 @@
-# test
-test scripts are put here
+#Automation 
+Useful Test Automation scripts for personal use will be added here
