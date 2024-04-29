@@ -1,3 +1,5 @@
+# Script to pull name and email details from an HTML file and save them to a spreadsheet
+
 from bs4 import BeautifulSoup
 import pandas as pd
 
